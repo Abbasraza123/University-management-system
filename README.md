@@ -1,5 +1,5 @@
-Title: University Management System (C++ / Data Structures)
-Description: I recently completed a comprehensive University Management System in C++. 
+ University Management System (C++ / Data Structures)
+ I recently completed a comprehensive University Management System in C++. 
 The primary challenge of this project was a strict constraint to avoid all STL (Standard Template Library) containers, 
 requiring the manual implementation of all data structures using pointers and memory management.
 
